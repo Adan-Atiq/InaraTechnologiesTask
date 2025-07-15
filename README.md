@@ -59,7 +59,7 @@ Pagination check.
 
 # How to Run the Project
 # Clone project
-git clone <>
+git clone <https://github.com/Adan-Atiq/InaraTechnologiesTask.git>
 
 # Navigate into the project
 cd blogproject
