@@ -1,0 +1,4 @@
+https://adanatiq.postman.co/workspace/844830b3-5cf2-4ace-84d3-59a4c0f04b12/collection/46775340-bcdb707b-a5e6-476e-934a-2682b06c36fb 
+
+Invitation Link
+https://app.getpostman.com/join-team?invite_code=4c557af91825f8e8a164a44ce3d2f2814e091739acad546d0fc046a11db4d58d&target_code=8fde1f3bae2c2362b3a1ca59071ee936
